@@ -1,0 +1,67 @@
+Pinging one.one.one.one [1.1.1.1] with 32 bytes of data:
+Reply from 1.1.1.1: bytes=32 time=24ms TTL=56
+Reply from 1.1.1.1: bytes=32 time=24ms TTL=56
+
+Ping statistics for 1.1.1.1:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 24ms, Average = 24ms
+
+==========================================================
+
+Ping request could not find host \\\\\\\\\\\\n\f\c\d
+Please check the name and try again.
+
+==========================================================
+
+Pinging one.one.one.one [1.0.0.1] with 32 bytes of data:
+Reply from 1.0.0.1: bytes=32 time=23ms TTL=58
+Reply from 1.0.0.1: bytes=32 time=23ms TTL=58
+
+Ping statistics for 1.0.0.1:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 23ms, Maximum = 23ms, Average = 23ms
+
+==========================================================
+
+192.168.0.254, destination cannot be reached!
+
+==========================================================
+
+Pinging SkyRouter.Home [192.168.0.1] with 32 bytes of data:
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+
+Ping statistics for 192.168.0.1:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
+
+==========================================================
+
+Pinging BLADE15 [127.0.0.1] with 32 bytes of data:
+Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+Reply from 127.0.0.1: bytes=32 time<1ms TTL=128
+
+Ping statistics for 127.0.0.1:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+==========================================================
+
+192.168.0.254, destination cannot be reached!
+
+==========================================================
+
+Pinging dns.google [8.8.8.8] with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=24ms TTL=119
+Reply from 8.8.8.8: bytes=32 time=24ms TTL=119
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 24ms, Average = 24ms
+
+==========================================================

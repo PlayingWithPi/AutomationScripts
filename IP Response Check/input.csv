@@ -1,0 +1,8 @@
+1.1.1.1, # Testing no delimiter entry. - Cannot find error to raise against missed delimiter - someone help?
+\\\\\\\\\\\\n\f\c\d, # Incorrect input (Tested to see outcome) - Issue dealt with.
+1.0.0.1, # Known External IP - Working.
+192.168.0.254, # Known Empty IP (For Testing + Visual Test).
+192.168.0.1, # Default Gateway - Works.
+127.0.0.1, # Localhost - Works.
+192.168.0.254, # Known Empty IP (For Testing & Visuals).
+8.8.8.8, # Known External IP - Working.
